@@ -1,4 +1,4 @@
-# resume
+# resume- cv- curriculum vitae
 
 Choose Language 💬:<br/>
 🅰![English\Inglês](https://github.com/paichato/resume/edit/main/resume-EN.md)<br/>
