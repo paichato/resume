@@ -59,7 +59,8 @@ FIREBASE    | JEST          | PWA | C#
   **Digital Innovation One** - [Desenvolvimento de aplicações para internet com ReactJS](https://github.com/paichato/resume/blob/main/certificates/Certificado-Desenvolvimento%20de%20aplica%C3%A7%C3%B5es%20para%20internet%20com%20ReactJS-A797485F.pdf)<br/>
   **AMAZON AWS** - [AWS Development Tools Services Overview (Portuguese)](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=EjmgqLahjUyWa1sQ3oN_CQ2)<br/>
   **AMAZON AWS** - [Introduction to AWS CodeCommit](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=sYAxmMETCkKlfIUXiwjMvA2)<br/>
-  **AMAZON AWS** - [Introduction to AWS CodeBuild](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=c4UEYG5Q20iwpAC2iM5Fww2)
+  **AMAZON AWS** - [Introduction to AWS CodeBuild](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=c4UEYG5Q20iwpAC2iM5Fww2)<br/>
+  **AMAZON AWS** - [AWS Security Fundamentals - Introduction to Cloud Computing and AWS Security](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=I97sR2RvFUWuoyKTH8xM0w2)<br/>
   > - - - - - -
   
   ### EXPERIENCE
