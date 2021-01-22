@@ -61,6 +61,7 @@ FIREBASE    | JEST          | PWA | C#
   **AMAZON AWS** - [Introduction to AWS CodeCommit](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=sYAxmMETCkKlfIUXiwjMvA2)<br/>
   **AMAZON AWS** - [Introduction to AWS CodeBuild](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=c4UEYG5Q20iwpAC2iM5Fww2)<br/>
   **AMAZON AWS** - [AWS Security Fundamentals - Introduction to Cloud Computing and AWS Security](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=I97sR2RvFUWuoyKTH8xM0w2)<br/>
+  **AMAZON AWS** - [AWS Security Fundamentals - Access Control and Management](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=tfTVAbz_vUaR9ZW8mmslPg2)<br/>
   > - - - - - -
   
   ### EXPERIENCE
