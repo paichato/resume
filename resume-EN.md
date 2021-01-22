@@ -17,6 +17,25 @@
 
 > - - - - -
 
+### PROJECTS
+
+> #### Projects in React:
+> ##### Web Apps:
+>  - [tinder-clone](https://paichato.github.io/tinder-clone/)- *a tinder clone app made with React, NodeJs, MongoDB and ExpressJs*<br/>
+  
+> ###### SPA:
+>  - [My Portfolio](https://paichato.github.io/marlon-portfolio)- *made with React, styled components, HTML,CSS, react-icons*<br/>
+> ###### PWA:
+>  -
+
+> ##### Landing Pages:
+>  - [SEND](https://paichato.github.io/send/)- *a simple landing page made for SEND.lda* <br/>
+ 
+> ##### Recent Projects:
+>  - Github Explorer(*coming soon*)
+
+  > - - - - - - 
+
 ### EDUCATION
 > > >
 **USTM**- **Universidade Sao Tomas de Mocambique**- Maputo, Mozambique *Information Systems Technologies* >>*2013-2016*
@@ -25,7 +44,7 @@
 ### LANGUAGES AND TOOLS
 HTML     | CSS          | JAVASCRIPT | REACT | PACKAGE MANAGER(YARN, NPM) | PHOTOSHOP
 ---------|--------------|-----------|----------|----------|----------
-WEBPACK    | GIT          | STYLED COMPONENTS | SINGLE PAGE APP(SPA) | TDD | PYTHON
+AWS    | GIT          | STYLED COMPONENTS | SINGLE PAGE APP(SPA) | TDD | PYTHON
 
 ##### FAMILIAR WITH
 NODEJS     | MONGODB          | EXPRESSJS | JAVA
@@ -33,28 +52,7 @@ NODEJS     | MONGODB          | EXPRESSJS | JAVA
 FIREBASE    | JEST          | PWA | C#
 
 ----------
-### PROJECTS
 
-> #### Projects in React:
-> ##### Web Apps:
-  1.
-  2.
-  3.
-> ###### SPA:
-  -
-> ###### PWA:
-  -
-
-> ##### Landing Pages:
-  1.[SEND](https://paichato.github.io/send/)- a simple landing page made for SEND.lda 
-  2.[My Portfolio](https://paichato.github.io/marlon-portfolio)
- 
-> ##### Recent Projects:
-  1.
-  2.
-  3.
-  4.
-  > - - - - - - 
   ### CERTIFICATE
    **AMAZON AWS** - [AWS Development Tools Services Overview (Portuguese)](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=EjmgqLahjUyWa1sQ3oN_CQ2)<br/>
   **AMAZON AWS** - [Introduction to AWS CodeCommit](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=sYAxmMETCkKlfIUXiwjMvA2)<br/>
