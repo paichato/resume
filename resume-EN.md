@@ -55,13 +55,16 @@ FIREBASE    | JEST          | PWA | C#
   4.
   > - - - - - - 
   ### CERTIFICATE
-  **Digital Innovation One** - [Introdução ao ReactJS](https://github.com/paichato/resume/blob/main/certificates/Certificado-Introducao%20ao%20ReactJs-DIgitalInnovationOne-701AA6FC.pdf)<br/>
-  **Digital Innovation One** - [Desenvolvimento de aplicações para internet com ReactJS](https://github.com/paichato/resume/blob/main/certificates/Certificado-Desenvolvimento%20de%20aplica%C3%A7%C3%B5es%20para%20internet%20com%20ReactJS-A797485F.pdf)<br/>
-  **AMAZON AWS** - [AWS Development Tools Services Overview (Portuguese)](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=EjmgqLahjUyWa1sQ3oN_CQ2)<br/>
+   **AMAZON AWS** - [AWS Development Tools Services Overview (Portuguese)](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=EjmgqLahjUyWa1sQ3oN_CQ2)<br/>
   **AMAZON AWS** - [Introduction to AWS CodeCommit](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=sYAxmMETCkKlfIUXiwjMvA2)<br/>
   **AMAZON AWS** - [Introduction to AWS CodeBuild](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=c4UEYG5Q20iwpAC2iM5Fww2)<br/>
   **AMAZON AWS** - [AWS Security Fundamentals - Introduction to Cloud Computing and AWS Security](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=I97sR2RvFUWuoyKTH8xM0w2)<br/>
   **AMAZON AWS** - [AWS Security Fundamentals - Access Control and Management](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=tfTVAbz_vUaR9ZW8mmslPg2)<br/>
+  **Digital Innovation One** - [Introdução ao ReactJS](https://github.com/paichato/resume/blob/main/certificates/Certificado-Introducao%20ao%20ReactJs-DIgitalInnovationOne-701AA6FC.pdf)<br/>
+  **Digital Innovation One** - [Desenvolvimento de aplicações para internet com ReactJS](https://github.com/paichato/resume/blob/main/certificates/Certificado-Desenvolvimento%20de%20aplica%C3%A7%C3%B5es%20para%20internet%20com%20ReactJS-A797485F.pdf)<br/>
+  **Digital Innovation One** - [ Introdução ao Git e ao GitHub](https://certificates.digitalinnovation.one/BE912866)<br/>
+   **Digital Innovation One** - [Shell script - Manipulando Arquivos ](https://certificates.digitalinnovation.one/772979B1)<br/>
+ 
   > - - - - - -
   
   ### EXPERIENCE
