@@ -56,7 +56,8 @@ FIREBASE    | JEST          | PWA | C#
   > - - - - - - 
   ### CERTIFICATE
   **Digital Innovation One** - [Introdução ao ReactJS](https://github.com/paichato/resume/blob/main/certificates/Certificado-Introducao%20ao%20ReactJs-DIgitalInnovationOne-701AA6FC.pdf)<br/>
-  **Digital Innovation One** - [Desenvolvimento de aplicações para internet com ReactJS](https://github.com/paichato/resume/blob/main/certificates/Certificado-Desenvolvimento%20de%20aplica%C3%A7%C3%B5es%20para%20internet%20com%20ReactJS-A797485F.pdf)
+  **Digital Innovation One** - [Desenvolvimento de aplicações para internet com ReactJS](https://github.com/paichato/resume/blob/main/certificates/Certificado-Desenvolvimento%20de%20aplica%C3%A7%C3%B5es%20para%20internet%20com%20ReactJS-A797485F.pdf)<br/>
+  **AMAZON AWS** - [AWS Development Tools Services Overview (Portuguese)](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=EjmgqLahjUyWa1sQ3oN_CQ2)
   > - - - - - -
   
   ### EXPERIENCE
