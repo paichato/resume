@@ -21,6 +21,7 @@
 
 > #### Projects in React:
 > ##### Web Apps:
+> -  [git-explorer](https://paichato.github.io/git-explorer) - *a web app that consumes the github API to explore repositories(issues, stars,etc).*<br/>
 >  - [tinder-clone](https://paichato.github.io/tinder-clone/)- *a tinder clone app made with React, NodeJs, MongoDB and ExpressJs*<br/>
   
 > ###### SPA:
