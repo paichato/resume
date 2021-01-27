@@ -4,20 +4,17 @@
 >tsenane14@gmail.com | +258863312292 | [Telegram](https://telegram.me/exabitcore) | [Linkedin](https://www.linkedin.com/in/marlon-d-jesus-6874271ab/) | [Github](https://www.github.com/paichato)<br/>
 
 ### ABOUT ME
-> I am passionate about programming since 2011.<br/>
-> - In 2013 i took a degree course in Information Systems Technologies at [USTM-Universidade Sao Tomas de Mocambique](https://ustm.ac.mz) where i could learn:<br/>
-   >  - - *Java*<br/>
-   >  - - *C#* <br/>
-   >   - - *HTML*<br/>
-> - I dropped out of the course in the third year because i was not learning programming as such and i could not specialize in programming only in systems administration(sys Admin)<br/>
-> - In 2017 I decided to become a full-time photographer untill now.<br/>
-> - In 2019 I discovered bootcamps and React
-> - In 2020 I realized what i wanted to for a living and for my life and that was Software Engineering
-> -  **2021 im willing to master React and to apply to a job on a company where i can grow and aggregate value.**
+> I like challenges and I am good at solving problems that is why I found myself being a Web
+Developer to bring solutions for web users(mobile and computer). 
+But Software development has never been a job for me, therefore bellow you will find projects I have completed that showcase
+ my skills and general background in developing Software. <br/><br/>
+ I am willing to join a team that needs someone who they
+ can count with on developing Web Apps using React or other frameworks, libraries on Web Dev environment.
+
 
 > - - - - -
 
-### PROJECTS
+### EXPERIENCE
 
 > #### Projects in React:
 > ##### Web Apps:
@@ -33,7 +30,7 @@
 >  - [SEND](https://paichato.github.io/send/)- *a simple landing page made for SEND.lda* <br/>
  
 > ##### Recent Projects:
->  - Github Explorer(*coming soon*)
+>  - Big Burguer App(*coming soon*)
 
   > - - - - - - 
 
@@ -67,7 +64,12 @@ FIREBASE    | JEST          | PWA | C#
  
   > - - - - - -
   
-  ### EXPERIENCE
+  ### Professional References
+  > Name | Professional Role | Company | Contact
+  > ---|---|---|---
+  > Delfim Marrime   |   **Senior Back-End Dev** |**Vodacom** |  *Delfimarime@gmail.com* <br/>
+  > Adelino Ngomacha  |  **Senior Fullstack Dev** | N |   **
+ 
   
   > - - - - - -
   ### LANGUAGES
