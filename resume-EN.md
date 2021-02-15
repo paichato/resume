@@ -20,6 +20,7 @@ But Software development has never been a job for me, therefore bellow you will 
 > ##### Web Apps:
 > -  [git-explorer](https://paichato.github.io/git-explorer) - *a web app that consumes the github API to explore repositories(issues, stars,etc).*<br/>
 >  - [tinder-clone](https://paichato.github.io/tinder-clone/)- *a tinder clone app made with React, NodeJs, MongoDB and ExpressJs*<br/>
+> - [IpAddressTracker](https://paichato.github.io/ipadrrestracker/)- *A web app that tracks IP addresses or domains by consuming IPFY-API and Google Maps API.*
   
 > ###### SPA:
 >  - [My Portfolio](https://paichato.github.io/marlon-portfolio)- *made with React, styled components, HTML,CSS, react-icons*<br/>
@@ -40,9 +41,9 @@ But Software development has never been a job for me, therefore bellow you will 
 > - - - - -
 
 ### LANGUAGES AND TOOLS
-HTML     | CSS          | JAVASCRIPT | REACT | PACKAGE MANAGER(YARN, NPM) | PHOTOSHOP
----------|--------------|-----------|----------|----------|----------
-AWS    | GIT          | STYLED COMPONENTS | SINGLE PAGE APP(SPA) | TDD | PYTHON
+HTML     | CSS          | JAVASCRIPT | REACT | PACKAGE MANAGER(YARN, NPM) | PHOTOSHOP | axios
+---------|--------------|-----------|----------|----------|----------|----------
+AWS    | GIT          | STYLED COMPONENTS | SINGLE PAGE APP(SPA) | API| PYTHON 
 
 ##### FAMILIAR WITH
 NODEJS     | MONGODB          | EXPRESSJS | JAVA
@@ -67,7 +68,7 @@ FIREBASE    | JEST          | PWA | C#
   ### Professional References
   > Name | Professional Role | Company | Contact
   > ---|---|---|---
-  > Delfim Marrime   |   **Senior Back-End Dev** |**Vodacom** |  *Delfimarime@gmail.com* <br/>
+  > [Delfim Marrime](https://www.linkedin.com/in/delfimarime/)   |   **Senior Back-End Dev** |**Vodacom** |  *Delfimarime@gmail.com* <br/>
   > Adelino Ngomacha  |  **Senior Fullstack Dev** | N |   **
  
   
