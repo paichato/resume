@@ -23,7 +23,7 @@ But Software development has never been a job for me, therefore bellow you will 
 > - [IpAddressTracker](https://paichato.github.io/ipadrrestracker/)- *A web app that tracks IP addresses or domains by consuming IPFY-API and Google Maps API.*
   
 > ###### SPA:
->  - [My Portfolio](https://paichato.github.io/marlon-portfolio)- *made with React, styled components, HTML,CSS, react-icons*<br/>
+>  - [Bookmark](https://paichato.github.io/bookmark/)- *made with React, styled components, HTML,CSS, react-icons*<br/>
 > ###### PWA:
 >  -
 
@@ -31,19 +31,28 @@ But Software development has never been a job for me, therefore bellow you will 
 >  - [SEND](https://paichato.github.io/send/)- *a simple landing page made for SEND.lda* <br/>
  
 > ##### Recent Projects:
->  - Big Burguer App(*coming soon*)
+>  - [move-it](https://moveit-next-hfv4sbooo-paichato.vercel.app/)- *an app that combines Pomodoro's technique with 		physical exercises for those who spend a lot of time in front of the computer.The technologies used on this project were:
+> React, Typescript, NextJs, axios, ReacyHooks(useState, useEffect, useContext, useRouter)*
 
   > - - - - - - 
 
 ### EDUCATION
 > > >
 **USTM**- **Universidade Sao Tomas de Mocambique**- Maputo, Mozambique *Information Systems Technologies* >>*2013-2016*
+> Learned:
+-  Pascal (6 months),
+-  C# (6 months),
+-  Java( 1 year),
+-  HTML 5   ( 6 months),
+-  MySQL ( 6 months),
+-  Data Structure and Algorithms( 6 months)
+-  Learned Oracle DB and Distributed Databases
 > - - - - -
 
 ### LANGUAGES AND TOOLS
 HTML     | CSS          | JAVASCRIPT | REACT | PACKAGE MANAGER(YARN, NPM) | PHOTOSHOP | axios
 ---------|--------------|-----------|----------|----------|----------|----------
-AWS    | GIT          | STYLED COMPONENTS | SINGLE PAGE APP(SPA) | API| PYTHON 
+AWS    | GIT          | STYLED COMPONENTS | SINGLE PAGE APP(SPA) | API| PYTHON | NextJS
 
 ##### FAMILIAR WITH
 NODEJS     | MONGODB          | EXPRESSJS | JAVA
